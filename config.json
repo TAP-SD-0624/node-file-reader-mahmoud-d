@@ -1,0 +1,8 @@
+{
+  "files": [
+    "text files/file1.txt",
+    "text files/file2.txt",
+    "text files/test empty.txt",
+    "test doesn't exist"
+  ]
+}
